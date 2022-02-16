@@ -3,12 +3,14 @@
   padding: 0;
 }
 
+/* Global */
 body {
   margin: 0;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
 }
 
+/* Showcase */
 #showcase {
   background-image: url(../img/showcase.jpg);
   background-size: cover;
@@ -36,6 +38,7 @@ body {
   color: rgb(211, 199, 27);
 }
 
+/* Media Queries /*
 @media (max-width: 560px) {
   #showcase p {
     font-size: 18px;
