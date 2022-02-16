@@ -38,7 +38,7 @@ body {
   color: rgb(211, 199, 27);
 }
 
-/* Media Queries /*
+/* Media Queries */
 @media (max-width: 560px) {
   #showcase p {
     font-size: 18px;
